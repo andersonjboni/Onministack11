@@ -43,9 +43,7 @@ app.use(routes);
  * ou
  * Query Builder: Utiliza o JS e poderá ser usado depois com outros banco se precisar modificar
  * exemplo de consulta: table('users').select('*').where('...')
- */
-
- 
+ */ 
 
 /**
  * Aqui vamos indicar em qual porta deverá escrutar/rodar
