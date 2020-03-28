@@ -1,4 +1,4 @@
-//Página princial que será sempre chamada na rota "/"
+//Página princial que será sempre chamada na rota - -- "/"
 
 /**
  * Uma constante (não poderá sofrer alterações)
